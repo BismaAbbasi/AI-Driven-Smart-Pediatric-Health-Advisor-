@@ -33,10 +33,7 @@ pediatric-health-advisor/
 │   └── index.html        # Web interface (Frontend)
 ├── requirements.txt      # Python dependencies
 ├── README.md             # This file
-└── docs/
-    ├── SETUP_GUIDE.md    # Installation instructions
-    ├── TECH_EXPLAINED.md # Technology explanations
-    └── DEMO_GUIDE.md     # How to present the project
+
 ```
 
 ## ⚙️ Installation & Setup
@@ -50,8 +47,7 @@ pediatric-health-advisor/
 
 1. **Clone or Download the Repository**
 ```bash
-git clone https://github.com/yourusername/pediatric-health-advisor.git
-cd pediatric-health-advisor
+git AI-Driven-Smart-Pediatric-Health-Advisor-
 ```
 
 2. **Install Required Packages**
@@ -65,7 +61,7 @@ python app.py
 ```
 
 4. **Open in Browser**
-- Go to: `http://localhost:5000`
+- Go to: `http://locatric-health-advisor.gitalhost:5001`
 - The application should be running!
 
 ## 💡 How It Works
@@ -208,4 +204,4 @@ This project is open source and available for educational purposes.
 
 ---
 
-**Built with ❤️ for learning and healthcare awareness**
+**Built with ❤️ for learning and healthcare awareness specifically for Children**
