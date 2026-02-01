@@ -201,11 +201,6 @@ When presenting this project, emphasize:
 - [HTML/CSS Basics](https://www.w3schools.com/)
 - [JSON Format Guide](https://www.json.org/)
 
-## 📞 Contact & Support
-
-For questions or suggestions:
-- GitHub Issues: [Create an issue](https://github.com/yourusername/pediatric-health-advisor/issues)
-- Email: your.email@example.com
 
 ## 📄 License
 
